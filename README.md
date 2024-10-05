@@ -1,4 +1,4 @@
-Project Management System with Stepwise Tracking
+**Project Management System with Stepwise Tracking**
 Overview
 This project is a Project Management System where team managers can assign projects, team members can update progress, and managers can track progress and review each step in real-time. The system implements Role-Based Access Control (RBAC) for Admin, Manager, and Team Members.
 
@@ -54,10 +54,17 @@ project-management-system/
 │   │   ├── App.js                # Main React component
 │   │   └── index.js              # Frontend entry point
 └── README.md                     # Documentation
-Clone the repository:
+
+
+
+**Clone the repository:**
 git clone <repo-url>
 cd project-management-system/backend
-Install dependencies:
+
+
+**Install dependencies:**
 npm install
-Run the backend/frontend
+
+
+**Run the backend/frontend**
 npm start
